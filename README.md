@@ -1,2 +1,3 @@
-# serenity-screenplay-junit-webdriver
+# Serenity and Screenplay
+### Next-generation Automated Acceptance Tests
 Quản lý giáo trình cho khoá học 
